@@ -24,10 +24,11 @@
 
 ```bash
 ❯ gcloud config set project gcp-devops-3387428  # set the project for current gcloud configuration
+#                           ^^^^^^^^^^^^^^^^^^ the project id
 # Updated property [core/project].
 
 ❯ gcloud config configurations list
 # NAME     IS_ACTIVE  ACCOUNT                 PROJECT             COMPUTE_DEFAULT_ZONE  COMPUTE_DEFAULT_REGION
 # default  True       mattchang210@gmail.com  gcp-devops-3387428  us-central1-a         us-central1
-#                                             ^^^^^^^^^^^^^^^^^^ the project we just set
+#                                             ^^^^^^^^^^^^^^^^^^ id of the project we just set
 ```

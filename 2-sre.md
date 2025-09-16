@@ -1,0 +1,6 @@
+- History of Software Development Cycle
+- DevOps & SRE
+- Eliminating Toil
+- Blameless Postmortems
+- SLI, SLO & SLA
+- Error Budgets
