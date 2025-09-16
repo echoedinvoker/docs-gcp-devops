@@ -2,3 +2,4 @@
 - [2. SRE, Site Reliability Engineering](./2-sre.md)
 - [3. History of DevOps](3-history-of-devops.md)
 - [4. DevOps & SRE](4-devops-and-sre.md)
+- [5. SRE Role](5-sre-role.md)
