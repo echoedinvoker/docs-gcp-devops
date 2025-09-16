@@ -1,2 +1,3 @@
 - [1. Create a GCP Project](./1-create-project.md)
 - [2. SRE, Site Reliability Engineering](./2-sre.md)
+- [3. History of DevOps](3-history-of-devops.md)
