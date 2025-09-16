@@ -5,3 +5,4 @@
 - [5. SRE Role](5-sre-role.md)
 - [6. Blameless postmortems](6-blameless-postmortems.md)
 - [7. Error budget](7-error-budget.md)
+- [8. Eliminating toil](8-eliminating-toil.md)
