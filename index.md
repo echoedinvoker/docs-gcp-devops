@@ -8,3 +8,5 @@
 - [8. Eliminating toil](8-eliminating-toil.md)
 - [9. SLO](9-slo.md)
 - [10. SLI](10-sli.md)
+- [11. SLA](11-sla.md)
+- [12. Docker Intro](12-docker-intro.md)
