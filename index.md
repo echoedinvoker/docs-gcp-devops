@@ -7,3 +7,4 @@
 - [7. Error budget](7-error-budget.md)
 - [8. Eliminating toil](8-eliminating-toil.md)
 - [9. SLO](9-slo.md)
+- [10. SLI](10-sli.md)
