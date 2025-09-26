@@ -11,3 +11,8 @@
 - [11. SLA](11-sla.md)
 - [12. Docker Intro](12-docker-intro.md)
 - [13. Create Simple Webapp](13-create-simple-webapp.md)
+- [14. What is Container Technology](14-what-is-container.md)
+- [15. Dive into Docker](15-dive-into-docker.md)
+- [16. Container Registry](16-container-registry.md)
+- [17. Create First Docker Image](17-create-first-docker-image.md)
+- [18. Artifact Registry](18-artifact-registry.md)
